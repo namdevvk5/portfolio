@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(83, 221, 245);
+}
+
+#img{
+   width: 120px;
+   margin-left: 590px;
+   border: 1px solid red;
+  
+    
+}
+
+#nav{
+
+text-align: center;
+    margin-top: 10px;
+    font-size: large;
+}
+#c{
+
+    text-align: center;
+   
+    border: 1px solid black;
+   font-size: larger;
+}
+.exp1,th,td,edu{
+    border: 2px solid rgb(182, 31, 31);
+    border-collapse: collapse;
+    width: 400px;
+    text-align: center;
+    margin-left: 450px;
+    
+}
+footer{
+    text-align:center; 
+    color:brown; 
+    padding-top: 40px; 
+    font-size: large;
+
+}
